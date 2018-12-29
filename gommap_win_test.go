@@ -7,7 +7,6 @@ import (
 	"syscall"
 	"testing"
 
-	"./gommap"
 	. "gopkg.in/check.v1"
 )
 
